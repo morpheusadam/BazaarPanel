@@ -1,7 +1,5 @@
 <div align="center">
-
-# 🛒 RTL Panel
-
+# 🛒 Bazaar Panel
 ### A full-stack, RTL-ready Laravel e-commerce platform with a complete admin dashboard, product catalog, cart, orders, and PayPal checkout.
 
 <p>
