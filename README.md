@@ -5,11 +5,11 @@
 ### A full-stack, RTL-ready Laravel e-commerce platform with a complete admin dashboard, product catalog, cart, orders, and PayPal checkout.
 
 <p>
-  <img src="https://img.shields.io/github/license/morpheusadam/rtl-panel?style=for-the-badge&color=4c1" alt="License" />
-  <img src="https://img.shields.io/github/stars/morpheusadam/rtl-panel?style=for-the-badge&color=ffca28" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/morpheusadam/rtl-panel?style=for-the-badge&color=42a5f5" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/morpheusadam/rtl-panel?style=for-the-badge&color=8e44ad" alt="Last commit" />
-  <img src="https://img.shields.io/github/repo-size/morpheusadam/rtl-panel?style=for-the-badge&color=e67e22" alt="Repo size" />
+  <img src="https://img.shields.io/github/license/morpheusadam/BazaarPanel?style=for-the-badge&color=4c1" alt="License" />
+  <img src="https://img.shields.io/github/stars/morpheusadam/BazaarPanel?style=for-the-badge&color=ffca28" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/morpheusadam/BazaarPanel?style=for-the-badge&color=42a5f5" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/morpheusadam/BazaarPanel?style=for-the-badge&color=8e44ad" alt="Last commit" />
+  <img src="https://img.shields.io/github/repo-size/morpheusadam/BazaarPanel?style=for-the-badge&color=e67e22" alt="Repo size" />
 </p>
 
 <p>
@@ -84,7 +84,7 @@ It is ideal for **web developers, agencies, and indie makers** who want a ready-
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/morpheusadam/rtl-panel.git
+git clone https://github.com/morpheusadam/BazaarPanel.git
 cd rtl-panel
 
 # 2. Install PHP and JS dependencies
@@ -141,7 +141,7 @@ rtl-panel/
 
 ## 🤝 Contributing
 
-Contributions are welcome! Open an [issue](https://github.com/morpheusadam/rtl-panel/issues) or submit a pull request with new features, fixes, or improvements.
+Contributions are welcome! Open an [issue](https://github.com/morpheusadam/BazaarPanel/issues) or submit a pull request with new features, fixes, or improvements.
 
 ## 📜 License
 
@@ -170,8 +170,8 @@ Web developer & cheerful hacker · PHP · Laravel · Go
 
 ## ⭐ Star History
 
-<a href="https://star-history.com/#morpheusadam/rtl-panel&Date">
-  <img src="https://api.star-history.com/svg?repos=morpheusadam/rtl-panel&type=Date" alt="rtl-panel — Star History Chart" width="70%" />
+<a href="https://star-history.com/#morpheusadam/BazaarPanel&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/BazaarPanel&type=Date" alt="rtl-panel — Star History Chart" width="70%" />
 </a>
 
 <div align="center">
