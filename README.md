@@ -164,3 +164,20 @@ Web developer & cheerful hacker · PHP · Laravel · Go
 ⭐ **If this project helped you, consider giving it a star!** ⭐
 
 </div>
+
+
+---
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#morpheusadam/rtl-panel&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/rtl-panel&type=Date" alt="rtl-panel — Star History Chart" width="70%" />
+</a>
+
+<div align="center">
+
+### If this project helps you, please give it a ⭐
+
+A star helps other developers discover **rtl-panel** and supports continued development.
+
+</div>
